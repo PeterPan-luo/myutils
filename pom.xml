@@ -97,7 +97,11 @@
    			 <version>1.8.2</version>
 		</dependency>
 
-
+		<dependency>
+			<groupId>org.nutz</groupId>
+			<artifactId>nutz</artifactId>
+			<version>1.b.53</version>
+		</dependency>
 	</dependencies>
 	<build>
         <plugins>
