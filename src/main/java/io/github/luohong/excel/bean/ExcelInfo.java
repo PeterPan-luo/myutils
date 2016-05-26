@@ -1,4 +1,4 @@
-package io.github.luohong.entity;
+package io.github.luohong.excel.bean;
 import java.io.Serializable;
 
 

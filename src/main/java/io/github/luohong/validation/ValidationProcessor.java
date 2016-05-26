@@ -26,7 +26,7 @@ public class ValidationProcessor extends AbstractProcessor {
             if (klass.isAssignableFrom(Errors.class))
                 hasErrorArg = true;
         }
-	}
+	}	
 
 	public void process(ActionContext ac) throws Throwable {
 	    if (hasErrorArg) {

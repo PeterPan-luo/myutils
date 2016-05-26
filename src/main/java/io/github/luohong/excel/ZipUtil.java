@@ -1,6 +1,6 @@
 package io.github.luohong.excel;
 
-import io.github.luohong.entity.ExcelInfo;
+import io.github.luohong.excel.bean.ExcelInfo;
 
 import java.io.BufferedReader;
 import java.io.File;
